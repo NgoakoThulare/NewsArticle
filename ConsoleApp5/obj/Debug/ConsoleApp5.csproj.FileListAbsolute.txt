@@ -1,0 +1,10 @@
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CopyComplete
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\ngoakot\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
